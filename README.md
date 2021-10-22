@@ -1,6 +1,6 @@
-# VCF of polymorphic sites from **Pica** sp. samples inferred by ddRAD sequencing
+# VCF of polymorphic sites from _Pica_ sp. samples inferred by ddRAD sequencing
 
-SNP dataset for the manuscript "**Introgression at the emerging secondary contact zone of magpie Pica pica subspecies (Aves: Corvidae): integrating data on nuclear and mitochondrial markers, vocalizations and field observations**".
+SNP dataset for the manuscript "_Introgression at the emerging secondary contact zone of magpie Pica pica subspecies (Aves: Corvidae): integrating data on nuclear and mitochondrial markers, vocalizations and field observations_".
 
 Meta-information for each sample in the VCF file [populations.snps_filtered.vcf.gz](/data/populations.snps_filtered.vcf.gz), which contains polymorphic sites from ddRAD seqencing, can found in the corresponding Excel Table [SampleSheet_Plate_Pica_20180704.xlsx](/data/SampleSheet_Plate_Pica_20180704.xlsx).
 
